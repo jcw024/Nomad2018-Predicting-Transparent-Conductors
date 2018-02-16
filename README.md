@@ -7,4 +7,4 @@ The private score (remaining 83% of their test data) was 0.0643 root mean square
 Code to generate xyz data features was borrowed from Tony Y. https://www.kaggle.com/tonyyy/how-to-get-atomic-coordinates 
 PCA code for xyz data was borrowed from DatumX https://www.kaggle.com/janpreets/using-the-atomic-coordinates-for-prediction
 
-![Alt text](kaggle_nomad2018.jpg)
+![Alt text](Nomad2018-Predicting-Transparent-Conductors/kaggle_nomad2018.png)

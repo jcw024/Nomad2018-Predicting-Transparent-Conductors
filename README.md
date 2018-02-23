@@ -1,5 +1,5 @@
 # Nomad2018-Predicting-Transparent-Conductors
-predict bandgap and formation energy with crystal data
+Predicting bandgap and formation energy of semiconductors with crystal data.
 
 With this submission, reached 80/896 on private leaderboard on kaggle (top 10%), but was 13 minutes past the deadline...
 The private score (remaining 83% of their test data) was 0.0643 root mean square error.
